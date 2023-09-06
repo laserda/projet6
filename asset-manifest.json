@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/projet6/static/css/main.801add48.css",
+    "main.js": "/projet6/static/js/main.b8903ea0.js",
+    "static/js/787.0ce615c0.chunk.js": "/projet6/static/js/787.0ce615c0.chunk.js",
+    "static/media/banner-about.png": "/projet6/static/media/banner-about.abab3f12f4cb82f1dfa1.png",
+    "static/media/banner.png": "/projet6/static/media/banner.d00ae7dd3ef927bb988d.png",
+    "static/media/KASA.svg": "/projet6/static/media/KASA.cb30ed288734e88b410180a8bf9c3872.svg",
+    "static/media/KASA white.svg": "/projet6/static/media/KASA white.5339092ce6243c89c8f4805116ff5cee.svg",
+    "static/media/emptystar.svg": "/projet6/static/media/emptystar.079f0262e7779e5feaceac54b946f0a3.svg",
+    "static/media/star.svg": "/projet6/static/media/star.1989db5b24a93e8002af317449e8fec1.svg",
+    "index.html": "/projet6/index.html",
+    "static/media/arrow.svg": "/projet6/static/media/arrow.d928611bc90eddc723a6afedb7a0bdfe.svg",
+    "static/media/right-arrow.svg": "/projet6/static/media/right-arrow.0fe895dfe4932e195f8e42bb884a7599.svg",
+    "static/media/left-arrow.svg": "/projet6/static/media/left-arrow.a571ab7381a0cc6ec485d249322a1f03.svg",
+    "main.801add48.css.map": "/projet6/static/css/main.801add48.css.map",
+    "main.b8903ea0.js.map": "/projet6/static/js/main.b8903ea0.js.map",
+    "787.0ce615c0.chunk.js.map": "/projet6/static/js/787.0ce615c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.801add48.css",
+    "static/js/main.b8903ea0.js"
+  ]
+}
